@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTac</string>
+    <string name="todo21">TODO21</string>
+    <string name="todo22">TODO22</string>
+    <string name="todo0">TODO0</string>
+    <string name="todo1">TODO1</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo3">TODO3</string>
+    <string name="todo4">TODO4</string>
+    <string name="todo5">TODO5</string>
+    <string name="todo6">TODO6</string>
+    <string name="todo7">TODO7</string>
+    <string name="todo8">TODO8</string>
+    <string name="player_1_s_chance">X\'s Turn - Tap to play</string>
+    <string name="happy">happy</string>
+    <string name="win">winner</string>
+    <string name="reset">Reset</string>
+
+</resources>
